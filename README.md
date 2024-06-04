@@ -14,4 +14,4 @@ The main VBA script is located in 'script_outputStockChanges.bas'.
 - **Line 52**: Assisted by ChatGPT
 
 #### Function: Match function to find corresponding rows
-- **Lines 133, 141, 19**: Assisted by ChatGPT
+- **Lines 133, 141, 149**: Assisted by ChatGPT
